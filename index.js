@@ -119,7 +119,7 @@ const port = process.env.PORT || 9090;
 ┃┋♻ *MODE:* *[${config.MODE}]*
 ┃┋
 ┃┋♜ *BOT REPO:* 
-┃┋     https://github.com/Raheem-cm/RAHEEM-XMD-3 
+┃┋     https://github.com/Raheem-cm/RAHEEM-XMD-3*
 ┃╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┈⊷🇹🇿
 ╰╼════════════════╾╯
 > *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴇᴠ RAHEEM-CM*`;
